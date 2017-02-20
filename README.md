@@ -1,3 +1,3 @@
 # cs3240-labdemo
 
-## This is a conflicting change :(
+## This is the resolved change :D
